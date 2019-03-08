@@ -13,7 +13,7 @@ https://github.com/herbiemilford
 
 ### LinkedIn
 
-https://www.linkedin.com/in/joseph-crowder-iii
+www.linkedin.com/in/joseph-crowder-iii-a791879a/
 
 
 
