@@ -22,4 +22,4 @@ https://www.pivotaltracker.com/n/projects/2312988
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/herbiemilford/Spot-
